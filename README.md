@@ -1,14 +1,11 @@
-# Minimal Theme
+# My portfolio 
+Static HTML page to serve my [portfolio](https://rudreshgp.me)
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+# Theme
+Theme is forked from [orderedlist](https://github.com/orderedlist/minimal)
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
-
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
-
-# License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+# Deployment
+The site is deployed using github pages and uses [Name Cheap](https://www.namecheap.com/knowledgebase/search?q=rudreshgp) DNS.
 
 
 
