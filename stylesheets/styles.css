@@ -41,6 +41,7 @@ a {
 
 a:hover {
   color:#069;
+  text-decoration: underline;
 }
 
 a small {
@@ -192,6 +193,19 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+p {
+  text-align: justify;
+}
+section h1 {
+  text-decoration: underline;
+}
+header {
+  text-align: center;
+}
+header p {
+  text-align: center;
 }
 
 @media print, screen and (max-width: 960px) {
